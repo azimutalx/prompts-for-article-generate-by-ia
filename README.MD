@@ -21,9 +21,9 @@
 <p align="center">
   <img 
     src=".github/assets/preview2.png"
-    width="400"
-    height="300"
-    style="max-width: 100%; max-height: 200px;"
+    width="200"
+    height="400"
+    style="max-width: 100%; max-height: 100%;"
   />
 </p>
 
@@ -89,8 +89,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/azimutalx">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-hemesonabreu">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/hemersonabreu/">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/hemersonabreu/">
     Instagram</a>
