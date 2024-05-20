@@ -21,9 +21,12 @@
 <p align="center">
   <img 
     src=".github/assets/preview2.png"
-    width="400"  
+    width="400"
+    height="300"
+    style="max-width: 100%; max-height: 200px;"
   />
 </p>
+
 
 # Projeto artigo técnico gerado por I.A.s
 
