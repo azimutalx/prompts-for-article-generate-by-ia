@@ -22,7 +22,7 @@
   <img 
     src=".github/assets/preview2.png"
     width="200"
-    height="400"
+    height="300"
     style="max-width: 100%; max-height: 100%;"
   />
 </p>
