@@ -51,10 +51,9 @@ ChatGPT：
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Lógica de Programação e Pensamento Computacional                                                                                                                                                                                                    |
 | conteúdo | Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo as regras abaixo |
 
-/{REGRAS}
-/> Utilize como base os livros *Computational Thinking* (The MIT Press Essential Knowledge series) e *Lógica de Programação - Aprendendo a Programar* por Rubens Campos De Almeida Júnior
-/> No mínimo 5 linhas por blocos de explicação e no máximo 10 linhas dividido em 2 parágrafos de 5 linhas
-/> Explique de maneira informal para uma pessoa que está iniciando nesse mundo digital
+{REGRAS}  
+/> No mínimo 5 linhas por blocos de explicação e no máximo 10 linhas dividido em 2 parágrafos de 5 linhas  
+/> Explique de maneira informal para uma pessoa que está iniciando nesse mundo digital  
 /> Os blocos que serão criados estão abaixo:
     - **Introdução**
         - **Título:** Entrando no Mundo Digital
@@ -84,11 +83,11 @@ ChatGPT：
     - **Conclusão e Próximos Passos**
         - **Título:** Rumo ao Futuro Digital
         - **Subtítulo:** O Caminho para o Desenvolvimento Contínuo das Habilidades Cognitivas
-        - **Resumo:** Encerramos o artigo reafirmando a importância da lógica de programação e do pensamento computacional na construção de habilidades cognitivas para o mundo digital e sugerindo próximos passos para o aprimoramento contínuo.
-        
-/> Crie exemplos de situações reais e suas aplicabilidades
+        - **Resumo:** Encerramos o artigo reafirmando a importância da lógica de programação e do pensamento computacional na construção de habilidades cognitivas para o mundo digital e sugerindo próximos passos para o aprimoramento contínuo.  
 
-- Faça um *call to action* para as minhas redes sociais
+
+/> Crie exemplos de situações reais e suas aplicabilidades  
+- Faça um *call to action* para as minhas redes sociais  
 - Coloque 3 hashtags que façam sentido
 
 Ilustrações de capa gerada por MidJourney  
