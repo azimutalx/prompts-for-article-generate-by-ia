@@ -49,18 +49,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Lógica de Programação e Pensamento Computacional                                                                                                                                                                                                    |
-| conteúdo | Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo as regras abaixo<br/>{REGRAS}<br/>\> No mínimo 5 linhas por blocos de explicação e no máximo 10 linhas dividido em 2 parágrafos de 5 linhas  
-\> Explique de maneira informal para uma pessoa que está iniciando nesse mundo digital  
-\> Os blocos que serão criados estão abaixo:
-    
-    - **Introdução**
-        - **Título:** Entrando no Mundo Digital
-        - **Subtítulo:** A Importância das Habilidades Cognitivas na Era Tecnológica
-        - **Resumo:** Neste bloco, introduzimos o tema do artigo, destacando a relevância das habilidades cognitivas na era digital e como a lógica de programação e o pensamento computacional desempenham um papel fundamental nesse contexto.
-
-    - **Fundamentos da Lógica de Programação**
-        - **Título:** Construindo a Base
-        - **Subtítulo:** Princípios Essenciais para Desenvolver Lógica de Programação
+| conteúdo | Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo as regras abaixo<br/>{REGRAS}<br/>\> No mínimo 5 linhas por blocos de explicação e no máximo 10 linhas dividido em 2 parágrafos de 5 linhas<br/>\> Explique de maneira informal para uma pessoa que está iniciando nesse mundo digital<br/>\> Os blocos que serão criados estão abaixo:<br/>- **Introdução**<br/>- **Título:** Entrando no Mundo Digital<br/>- **Subtítulo:** A Importância das Habilidades Cognitivas na Era Tecnológica<br/>- **Resumo:** Neste bloco, introduzimos o tema do artigo, destacando a relevância das habilidades cognitivas na era digital e como a lógica de programação e o pensamento computacional desempenham um papel fundamental nesse contexto.<br/>- **Fundamentos da Lógica de Programação**<br/>- **Título:** Construindo a Base<br/>- **Subtítulo:** Princípios Essenciais para Desenvolver Lógica de Programação
         - **Resumo:** Aqui, abordamos os conceitos básicos da lógica de programação, fornecendo uma compreensão sólida dos fundamentos necessários para desenvolver habilidades cognitivas no contexto da programação.
 
     - **Explorando o Pensamento Computacional**
