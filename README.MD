@@ -2,6 +2,12 @@
     <img width="100" src=".github/assets/banner.png">
 </p>
 
+<p align="center">
+  <img 
+    src=".github/assets/banner2.png"
+    width="1280"  
+  />
+</p>
 
 <p align="center">
   <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
@@ -24,11 +30,6 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me).
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="80%">
-  </a>
-<p>
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
