@@ -20,7 +20,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/preview.png"
+    src=".github/assets/preview2.png"
     width="400"  
   />
 </p>
