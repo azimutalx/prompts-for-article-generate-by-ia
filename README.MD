@@ -49,12 +49,13 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Lógica de Programação e Pensamento Computacional                                                                                                                                                                                                    |
-| conteúdo | Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo as regras abaixo |
+| conteúdo | Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo as regras abaixo 
 
 - {REGRAS}  
 > No mínimo 5 linhas por blocos de explicação e no máximo 10 linhas dividido em 2 parágrafos de 5 linhas  
 > Explique de maneira informal para uma pessoa que está iniciando nesse mundo digital  
 > Os blocos que serão criados estão abaixo:
+    
     - **Introdução**
         - **Título:** Entrando no Mundo Digital
         - **Subtítulo:** A Importância das Habilidades Cognitivas na Era Tecnológica
@@ -92,7 +93,7 @@ ChatGPT：
 
 Ilustrações de capa gerada por MidJourney  
 Conteúdo gerado por ChatGPT  
-- Revisado por Hemerson Abreu
+- Revisado por Hemerson Abreu |
 
 
 
