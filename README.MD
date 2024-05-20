@@ -49,12 +49,9 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Lógica de Programação e Pensamento Computacional                                                                                                                                                                                                    |
-| conteúdo | Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo as regras abaixo 
-
-- {REGRAS}  
-> No mínimo 5 linhas por blocos de explicação e no máximo 10 linhas dividido em 2 parágrafos de 5 linhas  
-> Explique de maneira informal para uma pessoa que está iniciando nesse mundo digital  
-> Os blocos que serão criados estão abaixo:
+| conteúdo | Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo as regras abaixo<br/>{REGRAS}<br/>\> No mínimo 5 linhas por blocos de explicação e no máximo 10 linhas dividido em 2 parágrafos de 5 linhas  
+\> Explique de maneira informal para uma pessoa que está iniciando nesse mundo digital  
+\> Os blocos que serão criados estão abaixo:
     
     - **Introdução**
         - **Título:** Entrando no Mundo Digital
@@ -87,13 +84,13 @@ ChatGPT：
         - **Resumo:** Encerramos o artigo reafirmando a importância da lógica de programação e do pensamento computacional na construção de habilidades cognitivas para o mundo digital e sugerindo próximos passos para o aprimoramento contínuo.  
 
 
-> Crie exemplos de situações reais e suas aplicabilidades  
-- Faça um *call to action* para as minhas redes sociais  
-- Coloque 3 hashtags que façam sentido
+\> Crie exemplos de situações reais e suas aplicabilidades  
+\- Faça um *call to action* para as minhas redes sociais  
+\- Coloque 3 hashtags que façam sentido
 
 Ilustrações de capa gerada por MidJourney  
 Conteúdo gerado por ChatGPT  
-- Revisado por Hemerson Abreu |
+Revisado por Hemerson Abreu |
 
 
 
